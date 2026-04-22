@@ -1,4 +1,4 @@
-# Proyecto-1-Limpieza-y-preparaci-n-de-datos-de-clientes-para-estrategia-de-fidelizaci-n
+# Proyecto1
 Proyecto 1: Limpieza y preparación de datos de clientes para estrategia de fidelización
 En este proyecto trabajé con datos de clientes de una empresa de comercio electrónico con el objetivo de preparar la información para el desarrollo de un programa de fidelización y futuras estrategias de marketing.
 
